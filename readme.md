@@ -8,9 +8,9 @@ To set up the backend, follow these steps:
 
 Navigate to the backend directory:
 
-cd backend
-Install the required dependencies:
-npm install
+cd backend  
+Install the required dependencies:  
+npm install  
 
 Endpoints
 POST /user/signup: Create a new user account. Requires username, first name, last name, and password.
@@ -27,7 +27,7 @@ Frontend
 Installation
 To set up the frontend, follow these steps:
 
-Navigate to the frontend directory:
-cd frontend
-Install the required dependencies:
+Navigate to the frontend directory:  
+cd frontend  
+Install the required dependencies:  
 npm install
