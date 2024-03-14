@@ -1,7 +1,7 @@
 const mongoose = require("mongoose");
 
 mongoose
-  .connect("mongodb+srv://admin:Yogesh%409@cluster0.0wfetic.mongodb.net/paytm")
+  .connect("Your MongoDB URL")
   .then(() => {
     console.log("Connected to MongoDB");
   })
